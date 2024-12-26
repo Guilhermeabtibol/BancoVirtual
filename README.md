@@ -30,20 +30,17 @@ O projeto é composto por três classes principais:
 ## 🖥 Como Executar
 
 1. **Clone o repositório**:
-
    ```
    git clone https://github.com/seu-usuario/banco-virtual.git
-Acesse a pasta do projeto:
- 
+2. Acesse a pasta do projeto:
+   ```
     cd banco-virtual
-Compile e execute o código:
-
+3. Compile e execute o código:  
 Compile o arquivo BancoVirtual.java:
-
-    ```
+   ```
     javac BancoVirtual.java
-
 Execute o programa:
+
     java BancoVirtual
 
 💡 Como Funciona
