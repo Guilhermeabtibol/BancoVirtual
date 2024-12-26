@@ -31,11 +31,10 @@ O projeto é composto por três classes principais:
 
 1. **Clone o repositório**:
 
-   ```bash
+
    git clone https://github.com/seu-usuario/banco-virtual.git
 Acesse a pasta do projeto:
  
-    ```bash
     cd banco-virtual
 Compile e execute o código:
 
