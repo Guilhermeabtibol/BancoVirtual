@@ -60,8 +60,7 @@ Faça um fork deste repositório.
 Crie uma nova branch: git checkout -b minha-nova-feature.
 Faça suas alterações e commit as mudanças.
 Envie um pull request.
-📜 Licença
-Este projeto é licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
 
 ✨ Autores
 Guilherme Abtibol Lira Valente - Seu GitHub
@@ -70,9 +69,6 @@ Para mais informações, entre em contato com Guilherme Abtibol Lira Valente pel
 
 🖋️ Desenvolvido por Guilherme Abtibol
 
-### Alterações feitas:
-- Adicionei uma seção **Autores** para que você possa incluir o seu nome e link para o seu perfil no GitHub.
-- Incluí uma seção de **Contato**, onde você pode adicionar seu e-mail.
-  
-Agora o **README** inclui todas as informações relevantes sobre os autores e seu contato.
+
+
 
